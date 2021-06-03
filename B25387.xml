@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Judgment or resolution of all the lords, the judges, and other the lords assembled in Star-Chamber, anno regni Regis Jacobi Secundo mentioned in the lord chancellors speech to the lord mayor and aldermen of London, attending His Majesty in council the 10th of December, in the 31th year of His said Majesties reign, annoque Domini, 1679, touching procuring hands to petitions relating to state affairs.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25387</idno><idno type="EEBO-CITATION">31355353</idno>
+  <idno type="VID">173695</idno>
+  <idno type="EEBO-PROQUEST">2248555272</idno>
+  
+            <idno type="STC">Wing J1184aA</idno>
+            <idno type="STC">ESTC R41440</idno>
+            <idno type="OCLC">31355353</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1741:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Judgment or resolution of all the lords, the judges, and other the lords assembled in Star-Chamber, anno regni Regis Jacobi Secundo mentioned in the lord chancellors speech to the lord mayor and aldermen of London, attending His Majesty in council the 10th of December, in the 31th year of His said Majesties reign, annoque Domini, 1679, touching procuring hands to petitions relating to state affairs.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="topical_term">Royal supremacy (Church of England)</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="judgment">
+            <pb facs="tcp:173695:1"/>
+            <head>The Judgment or Resolution of all the Lords, the Judges, and other the Lords Assembled in Star-Chamber, <hi>Anno Regni Regis Jacobi Secundo,</hi> Men<g ref="char:EOLhyphen"/>tioned in the Lord Chancellors Speech, to the Lord Mayor and Aldermen of <hi>London,</hi> attending His Ma<g ref="char:EOLhyphen"/>jesty in Council, the 10th. of <hi>December,</hi> in the 31th. Year of His said Majesties Reign, <hi>Annoque Do<g ref="char:EOLhyphen"/>mini,</hi> 1679. Touching procuring Hands to Petiti<g ref="char:EOLhyphen"/>ons Relating to State-Affairs.</head>
+            <opener>Memorandum,</opener>
+            <p>THat by Command from the King all the Justices of <hi>England</hi> with di<g ref="char:EOLhyphen"/>verse of the Nobility, <hi>viz.</hi> The Lord <hi>Ellesmere,</hi> Lord Chancellour; the Earl of <hi>Dorset,</hi> Lord Treasurer; Viscount <hi>Cranbourn</hi> Principall Secretary; the Earl of <hi>Nottingham,</hi> Lord <hi>Admirall;</hi> the Earl of <hi>Nortbumberland, Worcester, Devon</hi> and <hi>Northampton,</hi> the Lord <hi>Zouch, Burghley</hi> and <hi>Knowles,</hi> the Chancellour of the <hi>Dutchy,</hi> the Arch-Bishop of <hi>Canterbury,</hi> the Bishop of <hi>London, Popham</hi> Chief Justice, <hi>Bruce</hi> Master of the Rolls, <hi>An<g ref="char:EOLhyphen"/>derson, Gawdy, Walmesley, Fenner, Kingsmil, Warberton, Savel, Dainel, Yelver<g ref="char:EOLhyphen"/>ton</hi> and <hi>Snigg,</hi> were assembled in the Star-Chamber, where the Lord Chan<g ref="char:EOLhyphen"/>cellour after a long Speech made by him concerning Justices of the Peace, and his exhortation to the Justices of <hi>Assise,</hi> and a discourse concerning Papists and Puritans, declaring how they both were disturbers of the State, and that the King intending to suppress them, and to have the Laws put in execution against them; demanded of the Justices their Resolutions in three things.</p>
+            <p>First, Whether the deprivation of Puritan Ministers by the High Com<g ref="char:EOLhyphen"/>missioners for refusing to conform themselves to the Ceremonies appointed by the last Canons was lawful, whereto all the Justices answered,</p>
+            <p>That they had conferred thereof before, and held it to be lawful, because the King hath the supreme Ecclesiastical power, which he hath delegated to the Commissioners, whereby they had the power of Deprivation by the Canon-Law of the Realm. And the Statute of 1 <hi>Elizabeth,</hi> which appoints Commissioners to be made by the Queen, doth not confer any new power, but explain and declare the ancient power. And therefore they held it there, that the King without any Parliament might make Orders and Constituti<g ref="char:EOLhyphen"/>ons for the Government of the Clergy: and might deprive them if they obey not, and so the Commissioners might deprive them. But they could not make any Constitutions without the King, and the divulging of such Ordinances by Proclamation is a most gratious Admonition; and foras<g ref="char:EOLhyphen"/>much as they have refused to obey, they are lawfully deprived by Commis<g ref="char:EOLhyphen"/>sioners <hi>ex officio,</hi> without libell, <hi>Et ore tenus convocati.</hi>
+            </p>
+            <p>Secondly, Whether a Prohibition be grantable against the Commons upon the <hi>Stat.</hi> of 2. <hi>H.</hi> 5. if they do not deliver the Coppy of the Libel to the party; whereto they all answered, That that <hi>Stat.</hi> is intended where the Ecclesiasticall Judge proceeds <hi>ex officio &amp; ore tenus.</hi>
+            </p>
+            <pb facs="tcp:173695:2"/>
+            <p>Thirdly, Whether it were an offence punishable, and what punishment they deserved, who framed Petitions and collected a multitude of hands thereto, to prefer to the King in a publick cause, as the Puritans had done, with an intimation to the King, that if he denyed their suit, many thou<g ref="char:EOLhyphen"/>sands of his Subjects would be discontented: Whereto all the Justices an<g ref="char:EOLhyphen"/>swered, that it was an offence finable at discretion, and very near Treason and Felony in the punishment, for they tended to the raising of Sedition, Rebellion and discontent among the people: To which Resolution all the Lords agreed. And then many of the Lords declared that some of the Puritans had raised a false rumor of the King, how he intended to grant a Toleration to Papists: Which offence the Justices conceived to be hainously finable, by the Rules of the Common-Law, either in the <hi>Kings-Bench,</hi> or by the King and his Council; or now since the Statute of 3. <hi>Henry</hi> 7. in the Star-Chamber. And the Lords severally declared, how the King was discontented with the said false rumour, and had made but the day before a protestation unto them, that he never intended it, and that he would spend the last drop of blood in his body, before he would do it; and prayed that before any of his Issue should maintain any other Religion, then what he truly professed and maintained, that God would take them out of the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
